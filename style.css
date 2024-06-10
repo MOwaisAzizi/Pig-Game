@@ -217,7 +217,7 @@ main {
   .dice {
     position: absolute;
     left: 50%;
-    top: 27rem;
+    top: 28.5rem;
     transform: translateX(-50%);
     height: 6rem; 
     box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
@@ -231,10 +231,10 @@ main {
     top: 1rem;
   }
   .btn--hold {
-    top: 39.1rem;
+    top: 40rem;
   }
   .btn--roll {
-    top: 34.3rem;
+    top: 36rem;
   }
   .score {
     font-size: 3rem;
